@@ -26,7 +26,6 @@ import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 
-
 import org.openapitools.client.model.EmailResponse;
 import org.openapitools.client.model.ProblemDetails;
 
